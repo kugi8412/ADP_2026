@@ -15,6 +15,8 @@ Update the table (today you need to fill at least the first two columns)
 | --- | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2026/blob/main/project/TBA/README.md) |  To Be Announced | all students |
 | Szczerbinska Maria | [nicolas-bourbaki03](https://github.com/nicolas-bourbaki03) | [PCRpal](https://github.com/nicolas-bourbaki03/PCRpal) | PCR Primer Analysis and Validation Tool | Dubinska Agata, Makowska Katarzyna |
+| Prudło Agnieszka | [agap03](https://github.com/agap03) | [TBA]() |  To Be Announced | Tasinkiewicz Anastazja, Niemczak Paulina |
+| Moryl Wojciech | [wojciech-moryl](https://github.com/Fair0n) | TBD | TBD | TBD |
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory, where you will describe the subject, 
