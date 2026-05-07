@@ -14,7 +14,16 @@ Update the table (today you need to fill at least the first two columns)
 | Surname Name | URL (github) | Project acronim | Project full name | Other members |
 | --- | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2026/blob/main/project/TBA/README.md) |  To Be Announced | all students |
+| Szczerbinska Maria | [nicolas-bourbaki03](https://github.com/nicolas-bourbaki03) | [PCRpal](https://github.com/nicolas-bourbaki03/PCRpal) | PCR Primer Analysis and Validation Tool | Dubinska Agata, Makowska Katarzyna |
+| Prudło Agnieszka | [agap03](https://github.com/agap03) | [TBA]() |  To Be Announced | Tasinkiewicz Anastazja, Niemczak Paulina |
+| Moryl Wojciech | [wojciech-moryl](https://github.com/Fair0n) | TBD | TBD | TBD |
+| Dominik Suwała | [dsuwala](https://github.com/dsuwala) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Mateusz Wawrzyniak |
+| Laskowski Wojciech | [wlaskowski](https://github.com/wlaskowski) | TBA | TBA | Moryl Wojciech, Winczewska Karolina |
+| Tasinkiewicz Anastazja | [anastazjat08](https://github.com/anastazjat08) | TBA | TBA | Prudło Agnieszka, Niemczak Paulina |
+| Dominik Suwała | [dsuwala](https://github.com/dsuwala) | TBA | TBA | TBA |
+| Mateusz Wawrzyniak | [m-wawrzyniak](https://github.com/m-wawrzyniak) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Dominik Suwała |
 | Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | [TBA] |  To Be Announced |  |
+
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory, where you will describe the subject, 
