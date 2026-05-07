@@ -1,2 +1,30 @@
 # ADP_2026
 Architecture of large projects in bioinformatics (2026)
+
+### Task 1
+<ol type="a">
+  <li>install git</li>
+  <li>sign up (new users) or sign in (old users)</li>
+  <li>update the table below</li>
+</ol>
+
+### Project Members
+Update the table (today you need to fill at least the first two columns)
+
+| Surname Name | URL (github) | Project acronim | Project full name | Other members |
+| --- | --- | --- | --- | --- |
+| Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2026/blob/main/project/TBA/README.md) |  To Be Announced | all students |
+
+### Task 2
+Create the directory for your project with README.md file in <b>'projects'</b> directory, where you will describe the subject, 
+list the members and document the progress.
+
+### See also
+
+[ADP_2025 release](https://github.com/lukasz-kozlowski/ADP_2025)
+
+[ADP_2024 release](https://github.com/lukasz-kozlowski/ADP_2024)
+
+[ADP_2023 release](https://github.com/lukasz-kozlowski/ADP_2023)
+
+
