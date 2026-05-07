@@ -18,6 +18,9 @@ Update the table (today you need to fill at least the first two columns)
 | Prudło Agnieszka | [agap03](https://github.com/agap03) | [TBA]() |  To Be Announced | Tasinkiewicz Anastazja, Niemczak Paulina |
 | Moryl Wojciech | [wojciech-moryl](https://github.com/Fair0n) | TBD | TBD | TBD |
 | Dominik Suwała | [dsuwala](https://github.com/dsuwala) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Mateusz Wawrzyniak |
+| Laskowski Wojciech | [wlaskowski](https://github.com/wlaskowski) | TBA | TBA | Moryl Wojciech, Winczewska Karolina |
+| Tasinkiewicz Anastazja | [anastazjat08](https://github.com/anastazjat08) | TBA | TBA | Prudło Agnieszka, Niemczak Paulina |
+| Dominik Suwała | [dsuwala](https://github.com/dsuwala) | TBA | TBA | TBA |
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory, where you will describe the subject, 
