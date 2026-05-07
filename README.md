@@ -14,6 +14,7 @@ Update the table (today you need to fill at least the first two columns)
 | Surname Name | URL (github) | Project acronim | Project full name | Other members |
 | --- | --- | --- | --- | --- |
 | Kozlowski Lukasz | [lukasz-kozlowski](https://github.com/lukasz-kozlowski) | [TBA](https://github.com/lukasz-kozlowski/ADP_2026/blob/main/project/TBA/README.md) |  To Be Announced | all students |
+| Moryl Wojciech | [wojciech-moryl](https://github.com/Fair0n) | TBD | TBD | TBD |
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory, where you will describe the subject, 
