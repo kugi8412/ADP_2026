@@ -23,6 +23,7 @@ Update the table (today you need to fill at least the first two columns)
 | Dominik Suwała | [dsuwala](https://github.com/dsuwala) | TBA | TBA | TBA |
 | Mateusz Wawrzyniak | [m-wawrzyniak](https://github.com/m-wawrzyniak) | [NRNaudit](https://github.com/m-wawrzyniak/nrnaudit) | Neuron Audit | Dominik Suwała |
 | Niemczak Paulina | [paulinaniemczak](https://github.com/paulinaniemczak) | [TBA] |  To Be Announced |  |
+| Norbert Szala | [norbertszala](https://github.com/NorbertSzala) | [tAIpipe](https://github.com/NorbertSzala/tAIpipe) | tAIpipe | Maksymilian Stróżyk |
 
 
 ### Task 2
